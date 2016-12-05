@@ -1,0 +1,9 @@
+{
+  "name": "coffee-lint-config-gusto",
+  "version": "1.0.0",
+  "description": "A shared CoffeeLint config for Gusto's JS projects.",
+  "main": "index.js",
+  "repository": "git@github.com:Gusto/coffeelint-config-gusto.git",
+  "author": "Kurt Kotzur <kurt.kotzur@gusto.com>",
+  "license": "MIT"
+}
