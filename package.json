@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:Gusto/coffeelint-config-gusto.git",
   "author": "Kurt Kotzur <kurt.kotzur@gusto.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "coffeelint": "^1.16.0"
+  }
 }
