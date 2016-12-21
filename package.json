@@ -1,5 +1,5 @@
 {
-  "name": "coffeelint-config-gusto",
+  "name": "@gusto/coffeelint-config-gusto",
   "version": "1.0.0",
   "description": "A shared CoffeeLint config for Gusto's JS projects.",
   "main": "index.js",
